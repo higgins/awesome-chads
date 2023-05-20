@@ -1,5 +1,5 @@
 # awesome-chads
-A curated list of CHADS:  Cheap Ass Developers Sites relocated from a domain
+A curated list of CHADS:  Cheap Ass Developers Sites relocated from expired domains
 
 ![Cheap Ass Developer Sites](logo.jpeg?raw=true "Looking for that Cheap Ass Developer's Site?")
 
