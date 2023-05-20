@@ -25,8 +25,8 @@ This repo is a list of these CHADS. Find your CHADS. Migrate your CHADS. Embrace
 ## Contributing
 1. Open a Pull Request
 2. Add your site to the table above
-3. Provide some proof that you were the previous domain owner
-  a. If you are still in possession of the original domain name, run the project in both locations
-  b. If its on [Wayback Machine](https://web.archive.org/), link to it
-  c. If its not on [Wayback Machine](https://web.archive.org), add some photo or URL (blog, article, etc) evidence
-  d. Pinky swear 🤙
+3. Provide some proof that you were the previous domain owner. Either...
+    * If you have the original domain name, run the project in both locations....OR
+    * If its on [Wayback Machine](https://web.archive.org/), link to it...OR
+    * If its not on [Wayback Machine](https://web.archive.org), add some photo or URL (blog, article, etc) evidence...OR
+    * Pinky swear 🤙
