@@ -19,7 +19,7 @@ This repo is a list of these CHADS. Find your CHADS. Migrate your CHADS. Embrace
 | Maintainer | Expired Site | New CHAD Location |
 | ------------- | ------------- | ------------- |
 | [@higgins](https://github.com/higgins) | [Everyone Everywhere All At Once 👀](https://everyoneeverywhereallatonce.com)  | [encapsulate.me/eeaao](https://encapsulate.me/eeaao)  |
-| [@higgins](https://github.com/higgins) | [Is This A Matrix? 🦋](https://isthisamatrix.com)  | [encapsulate.me/isthisamatrix](https://encapsulate.me/isthisamatrix)  |
+| [@higgins](https://github.com/higgins) | [Is This A Matrix? 🦋](https://isthisamatrix.com)  | [encapsulate.me/matrix](https://encapsulate.me/matrix)  |
 
 
 ## Contributing
