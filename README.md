@@ -20,6 +20,7 @@ This repo is a list of these CHADS. Find your CHADS. Migrate your CHADS. Embrace
 | ------------- | ------------- | ------------- |
 | [@higgins](https://github.com/higgins) | [Everyone Everywhere All At Once 👀](https://everyoneeverywhereallatonce.com)  | [encapsulate.me/eeaao](https://encapsulate.me/eeaao)  |
 | [@higgins](https://github.com/higgins) | [Is This A Matrix? 🦋](https://isthisamatrix.com)  | [encapsulate.me/matrix](https://encapsulate.me/matrix)  |
+| [@higgins](https://github.com/higgins) | [Starting Condition](https://startingcondition.com) | [encapsulate.me/start](https://encapsulate.me/start) |
 
 
 ## Contributing
